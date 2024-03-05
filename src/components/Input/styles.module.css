@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  width: auto;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--dark200);
+  border-radius: 8px;
+  padding: 16px;
+  gap: 16px;
+}
+
+.input {
+  background-color: var(--dark200);
+  border: none;
+  color: var(--white);
+  width: 100%;
+  font-size: 16px;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.input::placeholder {
+  color: var(--gray);
+}
