@@ -1,0 +1,92 @@
+[
+  {
+    "time": "14:05",
+    "company": "Spirit Airlines",
+    "subject": "Fly To Nonstop Fun With $38* Fares",
+    "content": "Book Your Flights Before This Deal Ends"    
+  },
+  {
+    "time": "17:08",
+    "company": "Amazon",
+    "subject": "Secure two-step verification notification",
+    "content": "Thanks for visiting Amazon.com! Per year we are going to give 10% off."    
+  },
+  {
+    "time": "09:22",
+    "company": "Google",
+    "subject": "Secure alert for test@gmail.com",
+    "content": "This is a copy of a security alert sent to you by our automatic system. Please do not reply this email."    
+  },
+  {
+    "time": "12:45",
+    "company": "Apple",
+    "subject": "New iOS Update Available",
+    "content": "Upgrade to the latest iOS version for exciting new features and enhanced performance."    
+  },
+  {
+    "time": "15:30",
+    "company": "Netflix",
+    "subject": "Your Weekend Watchlist",
+    "content": "Discover the hottest shows and movies on Netflix for a perfect weekend binge-watching session."    
+  },
+  {
+    "time": "18:55",
+    "company": "Microsoft",
+    "subject": "Exclusive Software Sale",
+    "content": "Save big on Microsoft Office and other software products with our limited-time offer."    
+  },
+  {
+    "time": "10:12",
+    "company": "Tesla",
+    "subject": "Reserve Your Cybertruck Now!",
+    "content": "Be among the first to own the revolutionary Tesla Cybertruck. Reserve yours today!"    
+  },
+  {
+    "time": "13:40",
+    "company": "Starbucks",
+    "subject": "Coffee Lover's Rewards",
+    "content": "Earn double stars on your next purchase. Sip your way to more rewards with Starbucks."    
+  },
+  {
+    "time": "16:20",
+    "company": "Uber",
+    "subject": "Special Ride Discounts Inside",
+    "content": "Unlock exclusive discounts on your next Uber rides. Check out the app for details."    
+  },
+  {
+    "time": "11:05",
+    "company": "Fitbit",
+    "subject": "Achieve Your Fitness Goals",
+    "content": "Get personalized workout recommendations and health tips with your Fitbit tracker."    
+  },
+  {
+    "time": "14:55",
+    "company": "Airbnb",
+    "subject": "Plan Your Next Getaway",
+    "content": "Explore unique homes and experiences. Start planning your dream vacation with Airbnb."    
+  },
+  {
+    "time": "17:30",
+    "company": "Spotify",
+    "subject": "New Music Friday",
+    "content": "Discover the latest tracks and artists on New Music Friday. Tune in and enjoy the beats!"    
+  },
+  {
+    "time": "09:45",
+    "company": "Adobe",
+    "subject": "Creative Cloud Updates",
+    "content": "Stay ahead with the latest features and improvements. Update your Creative Cloud apps now."    
+  },
+  {
+    "time": "12:15",
+    "company": "Samsung",
+    "subject": "Exclusive Galaxy Offers",
+    "content": "Unlock special deals on the latest Samsung Galaxy devices. Don't miss out on these savings!"    
+  },
+  {
+    "time": "15:10",
+    "company": "Dell",
+    "subject": "Flash Sale on Laptops",
+    "content": "Hurry! Limited-time offers on Dell laptops. Upgrade your tech at unbeatable prices."    
+  }
+]
